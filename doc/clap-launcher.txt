@@ -27,7 +27,7 @@ For example, add following to your vimrc: >
   nnoremap <c-e> :<c-u>Clap launcher<cr>
 <
 When type <c-e> first, you can see just only '--edit-menu--'. Then type <cr>.
-You'll see that Vim opens a buffer to ~/.ctrlp-launcher.
+You'll see that Vim opens a buffer to ~/.clap-launcher.
 You can add title and commands to the file as follows:
 >
  # few tab characters to separate title and command.

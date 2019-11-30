@@ -1,3 +1,6 @@
+" Author: hokorobi <hokorobi.hokorobi@gmail.com>
+" Description: Kick something like commands, external commands, etc.
+
 let s:config_file = get(g:, 'clap_launcher_file', '~/.clap-launcher')
 
 function! s:source() abort

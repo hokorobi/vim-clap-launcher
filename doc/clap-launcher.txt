@@ -5,13 +5,13 @@
 	   -------------------------------------------------------
 
 Author: hokorobi <hokorobi.hokorobi@gmail.com>
-Repository: http://github.com/hokorobi/vim-clap-launcher
+Repository: https://github.com/hokorobi/vim-clap-launcher
 License: BSD style license
 
 Based on
 Author: Yasuhiro Matsumoto <mattn.jp@gmail.com>
-WebSite: http://mattn.kaoriya.net/
-Repository: http://github.com/mattn/ctrlp-launcher
+WebSite: https://mattn.kaoriya.net/
+Repository: https://github.com/mattn/ctrlp-launcher
 License: BSD style license
 
 ==============================================================================
